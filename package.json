@@ -1,4 +1,17 @@
 {
+<<<<<<< HEAD
+=======
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+>>>>>>> 535d30ba3e73647e935f60a70a0b11eb73e0e72f
   "dependencies": {
     "express": "^4.17.2"
   }
